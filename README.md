@@ -29,6 +29,13 @@ The dataset includes demographic, social, and academic features for predicting s
 
 ## 🚀 How to Run Locally
 
+## 🌐 Live Demo
+
+[Click here to use the app](https://student-performance-app-hhqq3v4hspei4ygflarh8t.streamlit.app)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-app-hhqq3v4hspei4ygflarh8t.streamlit.app)
+
+  
 ```bash
 git clone https://github.com/Prasannanandeti/student-performance-app.git
 cd student-performance-app
